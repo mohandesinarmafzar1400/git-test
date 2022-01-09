@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 l1 	will be conflict
 l2
 l3	will be conflict
+=======
+l1	edit for conflict
+l2	
+l3	edit for conflict
+>>>>>>> feature-2
 l4
 l5	edited
 l6 edited
