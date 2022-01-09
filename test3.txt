@@ -1,6 +1,6 @@
-l1
-l2
-l3
+l1	edit for conflict
+l2	
+l3	edit for conflict
 l4
 l5	edited
 l6 edited
